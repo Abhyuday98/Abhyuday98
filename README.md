@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hello, I'm Abhyuday
 
-<!--
-**Abhyuday98/Abhyuday98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Thanks for popping by! I'm currently working as a Tech Lead at an AI Startup. I've worked all along the stack from the Cloud to the Edge. I've gathered a level of expertise in Android Development and I'm currently on a journey to demystify Native development in Android.
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=Abhyuday98&color=green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> How to reach me </h3>
+<div>
+    <a href="https://www.linkedin.com/in/abhyuday-samadder" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="125px">
+    </a>
+    
+</div>
+
+## Android 🤖
+| Title | Article | Repo |
+| --- | --- | --- |
+| Installation Guide: Running Paddle-Lite-Demo OCR on Android | [:link:](https://medium.com/@abhyudaysamadder/installation-guide-running-paddle-lite-demo-ocr-on-android-a1e036ac2888) | [:link:](https://github.com/Abhyuday98/PaddlePaddleLiteDemo) |
