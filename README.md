@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Abhyuday
 
-- Thanks for popping by! I'm currently working as a Tech Lead at an AI Startup. I've worked all along the stack from the Cloud to the Edge. I've gathered a level of expertise in Android Development and I'm currently on a journey to demystify Native development in Android.
+Thanks for popping by. I have worked along the whole stack, from cloud to the edge, with a long stretch in Android and native development. These days most of my time goes into building with Claude Code: agents that ship real changes to real sites, and the skills, plugins and guard rails that make that safe to hand to someone who does not code. I write about what I learn on [Medium](https://medium.com/@abhyudaysamadder).
 
 ![](https://komarev.com/ghpvc/?username=Abhyuday98&color=green)
 
