@@ -15,7 +15,7 @@ Thanks for popping by. I have worked along the whole stack, from the cloud to th
 ## Claude Code 🛠️
 | Project | What it is | Repo |
 | --- | --- | --- |
-| greenroom | A chat page for someone who doesn't code, wired into your repo: Claude Code in a sandboxed worktree, a live preview, and a pull request when they press Send. Runs on Claude or on any open model, hosted or local, with a measured comparison of eleven of them. | [:link:](https://github.com/Abhyuday98/greenroom) |
+| greenroom | A chat page for someone who doesn't code, wired into your repo: Claude Code in a sandboxed worktree, a live preview, and a pull request when they press Send. Runs on Claude or on any open model, hosted or local, with a measured comparison of eleven of them. Article: [I gave someone who doesn't code a chat window into my repo](https://medium.com/@abhyudaysamadder/i-gave-someone-who-doesnt-code-a-chat-window-into-my-repo-dad666162994) | [:link:](https://github.com/Abhyuday98/greenroom) |
 | skills | My Claude Code skills and plugins, installable with `npx skills add Abhyuday98/skills` or as a plugin marketplace. | [:link:](https://github.com/Abhyuday98/skills) |
 | ↳ claude-video-generator | Narrated demo and walkthrough films made fully headless: terminal recording, app tour, slides, offline TTS, audio-driven assembly. | [:link:](https://github.com/Abhyuday98/skills/tree/main/skills/claude-video-generator) |
 | ↳ cowork | Hand over a goal, get back a verified file. Research first, format skill second, always verify. | [:link:](https://github.com/Abhyuday98/skills/tree/main/plugins/cowork) |
