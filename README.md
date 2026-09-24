@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Abhyuday
 
-Thanks for popping by. I have worked along the whole stack, from cloud to the edge, with a long stretch in Android and native development. These days most of my time goes into building with Claude Code: agents that ship real changes to real sites, and the skills, plugins and guard rails that make that safe to hand to someone who does not code. I write about what I learn on [Medium](https://medium.com/@abhyudaysamadder).
+Thanks for popping by. I have worked along the whole stack, from the cloud to the edge, with a long stretch in Android and native development. I write about what I learn on [Medium](https://medium.com/@abhyudaysamadder).
 
 ![](https://komarev.com/ghpvc/?username=Abhyuday98&color=green)
 
