@@ -12,6 +12,12 @@
     
 </div>
 
+## Claude Code 🛠️
+| Project | What it is | Repo |
+| --- | --- | --- |
+| greenroom | A chat page for someone who doesn't code, wired into your repo: Claude Code in a sandboxed worktree, a live preview, and a pull request when they press Send. Runs on Claude or on any open model, hosted or local. | [:link:](https://github.com/Abhyuday98/greenroom) |
+| skills | My Claude Code skills and plugins in one installable repo: a headless narrated-video generator, Cowork mode, and the VS Code extension de-brander. | [:link:](https://github.com/Abhyuday98/skills) |
+
 ## Android 🤖
 | Title | Article | Repo |
 | --- | --- | --- |
