@@ -1,34 +1,26 @@
-## 👋 Hello, I'm Abhyuday
+# Abhyuday Samadder
 
-Thanks for popping by. I have worked along the whole stack, from the cloud to the edge, with a long stretch in Android and native development. I write about what I learn on [Medium](https://medium.com/@abhyudaysamadder).
+I build software that runs where the user is: the GPU under the desk, the phone in a pocket, the box bolted to a factory line. Vision systems, wearables, provisioning, and the glue that keeps them running without a datacenter.
 
-![](https://komarev.com/ghpvc/?username=Abhyuday98&color=green)
+Most of what is here is self-hosted on purpose. If it needs a cloud account to try, I probably did not write it.
 
-<h3> How to reach me </h3>
-<div>
-    <a href="https://www.linkedin.com/in/abhyuday-samadder" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="125px">
-    </a>
-    
-</div>
+## Projects
 
-## Claude Code 🛠️
-| Project | What it is | Repo |
-| --- | --- | --- |
-| greenroom | A chat page for someone who doesn't code, wired into your repo: Claude Code in a sandboxed worktree, a live preview, and a pull request when they press Send. Runs on Claude or on any open model, hosted or local, with a measured comparison of eleven of them. Article: [I gave someone who doesn't code a chat window into my repo](https://medium.com/@abhyudaysamadder/i-gave-someone-who-doesnt-code-a-chat-window-into-my-repo-dad666162994) · [Demo film](https://vimeo.com/1229824513) | [:link:](https://github.com/Abhyuday98/greenroom) |
-| turnwise | Self-hosted meeting transcription for conversations that switch between Hindi and English: who said what, in their words. Record on the phone, transcribe on your own GPU, Hinglish in Latin script with an English line per turn, speakers named once and recognised in every later recording, and a Claude Code skill that answers questions from the transcripts. | [:link:](https://github.com/Abhyuday98/turnwise) |
-| skills | My Claude Code skills and plugins, installable with `npx skills add Abhyuday98/skills` or as a plugin marketplace. Article: [A twenty-minute narrated film, made with no screen, no microphone and nobody at the keyboard](https://medium.com/@abhyudaysamadder/a-twenty-minute-narrated-film-made-with-no-screen-no-microphone-and-nobody-at-the-keyboard-19d4c67876fc) | [:link:](https://github.com/Abhyuday98/skills) |
-| ↳ claude-video-generator | Narrated demo and walkthrough films made fully headless: terminal recording, app tour, slides, offline TTS, audio-driven assembly. | [:link:](https://github.com/Abhyuday98/skills/tree/main/skills/claude-video-generator) |
-| ↳ cowork | Hand over a goal, get back a verified file. Research first, format skill second, always verify. | [:link:](https://github.com/Abhyuday98/skills/tree/main/plugins/cowork) |
-| ↳ derebrand-claude-code | Neutralise the Claude Code VS Code extension's branding: name, icon, orange accents. | [:link:](https://github.com/Abhyuday98/skills/tree/main/plugins/derebrand-claude-code) |
+| | What it is |
+|---|---|
+| [isobake](https://github.com/samotherguy/isobake) | Unattended Ubuntu install ISOs from one YAML file: composable presets, a unique hostname and password per machine, full-disk encryption that unlocks from the TPM or a USB key, and a QEMU boot test so the stick works the first time. |
+| [turnwise](https://github.com/samotherguy/turnwise) | Meeting transcription for conversations that switch between Hindi and English mid-sentence. Record on the phone, transcribe on your own GPU, get who said what in the words they used. Speakers are named once and recognised in every later recording. |
+| [greenroom](https://github.com/samotherguy/greenroom) | A chat window into a repo for someone who does not code. They describe the change on their phone, watch it in a preview, press Send, and you get a pull request. Works with hosted or local models; eleven of them compared. [Article](https://medium.com/@abhyudaysamadder/i-gave-someone-who-doesnt-code-a-chat-window-into-my-repo-dad666162994) · [Film](https://vimeo.com/1229824513) |
+| [skills](https://github.com/samotherguy/skills) | Skills and plugins I use with coding agents every day: a pipeline that produces a narrated demo film with no screen, no microphone and nobody at the keyboard; a cowork mode that hands back a verified file; a tool that strips vendor branding from an editor extension. `npx skills add samotherguy/skills` |
+| [streaming-party](https://github.com/samotherguy/streaming-party) | Watch local video files together with friends, with shared play, pause and seek. |
+| [sish_deploy](https://github.com/samotherguy/sish_deploy) | Docker Compose for sish, a self-hosted tunnel for reaching machines behind NAT. |
 
-## Other projects 🧰
-| Project | What it is | Repo |
-| --- | --- | --- |
-| streaming-party | Stream local videos with your friends and watch them together with shared controls. | [:link:](https://github.com/Abhyuday98/streaming-party) |
-| sish_deploy | Docker Compose deployment for sish, a self-hosted ngrok alternative. | [:link:](https://github.com/Abhyuday98/sish_deploy) |
+## Writing
 
-## Android 🤖
-| Title | Article | Repo |
-| --- | --- | --- |
-| Installation Guide: Running Paddle-Lite-Demo OCR on Android | [:link:](https://medium.com/@abhyudaysamadder/installation-guide-running-paddle-lite-demo-ocr-on-android-a1e036ac2888) | [:link:](https://github.com/Abhyuday98/PaddlePaddleLiteDemo) |
+- [A twenty-minute narrated film, made with no screen, no microphone and nobody at the keyboard](https://medium.com/@abhyudaysamadder/a-twenty-minute-narrated-film-made-with-no-screen-no-microphone-and-nobody-at-the-keyboard-19d4c67876fc)
+- [I gave someone who doesn't code a chat window into my repo](https://medium.com/@abhyudaysamadder/i-gave-someone-who-doesnt-code-a-chat-window-into-my-repo-dad666162994)
+- [Running Paddle-Lite OCR on Android](https://medium.com/@abhyudaysamadder/installation-guide-running-paddle-lite-demo-ocr-on-android-a1e036ac2888)
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/abhyuday-samadder) · [Medium](https://medium.com/@abhyudaysamadder)
